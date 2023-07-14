@@ -1,0 +1,10 @@
+@forward "reset";
+@forward "util";
+@forward "components";
+
+body {
+  background-color: black;
+  color: white;
+  background: url(../assets/images/desktop/image-curiosity.jpg) no-repeat center
+    center/cover;
+}

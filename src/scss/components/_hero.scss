@@ -1,0 +1,6 @@
+@use "../util" as *;
+
+h1 {
+  @include fa-icon();
+  @include fa-icon-solid($fa-var-bars);
+}
